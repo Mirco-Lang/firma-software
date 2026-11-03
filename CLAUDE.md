@@ -64,6 +64,7 @@ Jeder Ablauf hat seine eigene Datei im Ordner `Ablaeufe/`.
 - Ton: Kunden werden immer mit „Sie“ angesprochen.
 
 ## Server
+- Server: Hostinger VPS, Ubuntu 24.04. Zugang und SSH-Schlüssel: `Passwoerter/server-hostinger.txt` und `Passwoerter/ssh/`.
 - Adresse der Software: https://app.«domain»
 - Datenbank: Supabase, selbst gehostet, Version «…» (festgenagelt)
 - Hintergrund-Abläufe: trigger.dev, selbst gehostet, Version «…» (festgenagelt)
