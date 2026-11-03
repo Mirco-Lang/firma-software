@@ -17,7 +17,7 @@ Bei Unklarheit gilt die Werte-DNA, nicht das Bauchgefühl.
 ## Regeln des Geschäfts
 Alle Preise netto. B2B.
 - Einkauf: Avides-Preis pro Palette, aus der Dropbox-Liste.
-- Aufschlag: Verkaufspreis = Avides-Preis plus 20 %. Gilt für jeden Artikel und für den Gesamtpreis der Palette.
+- Aufschlag: Verkaufspreis = Avides-Preis plus 20 %. Jeder Artikel wird auf den Cent aufgerundet. Der Palettenpreis ist die Summe der Artikelpreise. Wie man die Listen liest: Vorgehen/avides-preisliste-lesen.md
 - Mengenrabatt auf den Verkaufspreis (Richtlinie): 1 bis 2 Paletten 0 %, 3 bis 5 Paletten 10 %, ab 6 Paletten 15 %. Vorher bei Avides klären, wie viel Rabatt Avides gibt.
 - Avides gibt dem Chef bei mehreren Paletten ebenfalls Rabatt (zum Beispiel 10 %, 15 %, 20 %). Darum bleibt der Gewinn auch mit Kundenrabatt meist bei etwa 20 %. Maßgeblich ist immer der Gesamtpreis, den Avides per Mail nennt.
 - Vor jedem Gesamtangebot: Mail an den Avides-Mitarbeiter (über handelshaus-angebote@web.de) mit den SKU-Nummern der gewünschten Paletten und der Lieferadresse des Kunden. Fragen: Sind die Paletten noch da? Welchen Gesamtpreis inklusive Versand an diese Adresse macht Avides? Erst mit dieser Antwort geht an den Kunden eine einzige Mail mit Preisen, Verfügbarkeit und Versand.
