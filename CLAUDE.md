@@ -55,9 +55,8 @@ Jeder Ablauf hat seine eigene Datei im Ordner `Ablaeufe/`.
 - Ablaeufe/01-Anfrage-bis-Lieferung.md: vom Eintrag auf der Webseite bis zur gelieferten Palette
 
 ## Gestaltung
-- Farben: Hauptfarbe «#…», neutrale Farbe «#…», Akzent «#…»
-- Schriften: «…»
-- Logo: hell «Datei», dunkel «Datei»
+- Farben und Schrift: werden von der Webseite retourengrosshandel.com übernommen, wenn die erste Vorlage (Rechnung, Angebot, Mail) gebaut wird. Dann hier eintragen.
+- Logo: Es gibt kein Logo, und es wird keins gebraucht. Im Kopf von Rechnungen, Angeboten und Mails steht der Name als Schrift: „Handelshaus-Lang“ mit „Retouren Großhandel“. Vom Chef am 3. November 2026 so entschieden. Das geht hier der Logo-Regel im Fundament vor.
 - Ton: Kunden werden immer mit „Sie“ angesprochen.
 
 ## Server
