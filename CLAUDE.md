@@ -58,7 +58,7 @@ Jeder Ablauf hat seine eigene Datei im Ordner `Ablaeufe/`.
 - Farben: Hauptfarbe «#…», neutrale Farbe «#…», Akzent «#…»
 - Schriften: «…»
 - Logo: hell «Datei», dunkel «Datei»
-- Ton: «Sie oder du»
+- Ton: Kunden werden immer mit „Sie“ angesprochen.
 
 ## Server
 - Adresse der Software: https://app.«domain»
