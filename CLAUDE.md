@@ -12,7 +12,7 @@ Bei Unklarheit gilt die Werte-DNA, nicht das Bauchgefühl.
 - Was sie macht: Vermittelt Paletten mit Amazon-Retouren an Geschäftskunden (B2B). Kategorien laut Webseite: Spielzeug, Haushalt, Elektronik, Dekoration, Werkzeug, Textilien, Weiße Ware, Mystery Boxen.
 - Ansprechpartner: Mirco Lang, mirco.lang@retourengrosshandel.de, +49 171 1793416
 - Ziel: Der ganze Verkauf von der Anfrage bis zur Rechnung läuft automatisch. Für diesen Bereich braucht der Chef keinen menschlichen Mitarbeiter mehr. Er wird nur gerufen, wenn eine Frage nicht beantwortbar ist oder etwas schiefgeht.
-- Angeschlossene Werkzeuge: Webseite mit Anfrageformular, Ionos Webmail (dort kommen die Anfragen an), Dropbox von Avides (Palettenlisten als Excel, täglich aktualisiert), Mailadresse handelshaus-angebote@web.de (nur für Avides), Firmenkonto bei der Postbank (nur lesen, um Zahlungen zu prüfen; die KI überweist nie). «weitere …»
+- Angeschlossene Werkzeuge: Webseite mit Anfrageformular, Ionos Webmail (dort kommen die Anfragen an), Dropbox von Avides (Ordner „Pricelists“ mit Unterordnern Defective Goods, Electronics, Electronics Kilo Price, Fashion single boxes, Fashion Sportswear single boxes, Fashon Stocks, Manufacturer Stocks, Other Pricelists, Special Offers; Palettenlisten als Excel, täglich aktualisiert; alle Paletten ohne Fotos), PriceWert (https://pricewert.com/de: Baby-, Toys-, Sport- und BISS-Paletten mit Fotos), Mailadresse handelshaus-angebote@web.de (nur für Avides), Firmenkonto bei der Postbank (nur lesen, um Zahlungen zu prüfen; die KI überweist nie). «weitere …»
 
 ## Regeln des Geschäfts
 Alle Preise netto. B2B.
@@ -28,6 +28,8 @@ Alle Preise netto. B2B.
 - Geld prüfen: Die KI prüft alle Rechnungen und Zahlungen. Kommt die Rechnung von Avides, und passt sie zur Absprache? Hat der Kunde bezahlt, und stimmt der Betrag? Ist Avides bezahlt? Passt etwas nicht, meldet sie es dem Chef sofort.
 - Umsatzsteuer: 19 % auf Ware und auf Versand. Beides immer netto plus 19 %.
 - Rechnung: zeigt den Preis pro Palette (mit SKU-Nummer), dazu Versand, netto, 19 % USt, brutto. Jede Rechnung wird fünfmal geprüft, abgelegt und an den Kunden geschickt.
+- Nachfassen: Meldet sich ein Kunde 3 Tage nach den Listen nicht, bekommt er eine kurze Mail: ob noch Interesse besteht, ob Fragen offen sind.
+- Fragen von Kunden beantwortet die KI. Kann sie eine Frage nicht sicher beantworten, benachrichtigt sie den Chef sofort und sichtbar (Benachrichtigung auf dem Bildschirm).
 
 ## Rechnungen und Buchhaltung
 - Bisher schreibt der Chef Rechnungen mit Bilby. Für diesen Bereich gab es 2026 noch keine Rechnung. Die KI erstellt die Rechnungen ab jetzt selbst.
@@ -42,8 +44,10 @@ Alle Preise netto. B2B.
   - `Buchhaltung/2026/11-November/Eingang/`: Rechnungen von Avides (PDF)
 - Jeden Monat macht die KI die Buchhaltung fertig: Liste aller Ausgangs- und Eingangsrechnungen, wer bezahlt hat und wer nicht, Summe netto, Umsatzsteuer und brutto, Gewinn je Verkauf und im Monat. Alles gegen die Kontobewegungen geprüft.
 - Buchhaltung und Kundendaten gehen nicht zu GitHub. Sie stehen in der .gitignore.
-- Nachfassen: Meldet sich ein Kunde 3 Tage nach den Listen nicht, bekommt er eine kurze Mail: ob noch Interesse besteht, ob Fragen offen sind.
-- Fragen von Kunden beantwortet die KI. Kann sie eine Frage nicht sicher beantworten, benachrichtigt sie den Chef sofort und sichtbar (Benachrichtigung auf dem Bildschirm).
+
+## Zugänge
+- Alle Passwörter und Zugangslinks stehen in `Passwoerter/zugaenge.txt`. Nie hier, nie zu GitHub.
+- web.de: Beim Anmelden keinen Passkey einrichten.
 
 ## Geheim, nie nach außen
 - Kunden erfahren nie, dass die Ware von Avides kommt.
