@@ -35,7 +35,7 @@ Alle Preise netto. B2B.
 - Absender auf jeder Rechnung:
   Mirco Lang, Handelshaus-Lang, Güntherstr. 7, 97342 Marktsteft
   USt-IdNr.: DE315442374
-  «Amtsgericht Würzburg mit Registernummer, nur falls die Firma im Handelsregister steht»
+  Einzelunternehmen, nicht im Handelsregister. Darum stehen kein Amtsgericht und keine Registernummer auf der Rechnung. Vor- und Nachname (Mirco Lang) stehen immer dabei.
 - Bankverbindung auf jeder Rechnung: Postbank Business Giro, IBAN DE18 1001 0010 0002 0791 32. Kunden zahlen dorthin. Avides bucht von dort ab.
 - Ablage im Ordner `Buchhaltung/`, je Jahr und Monat:
   - `Buchhaltung/2026/11-November/Ausgang/`: unsere Rechnungen an Kunden (PDF)
